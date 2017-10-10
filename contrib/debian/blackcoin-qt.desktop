@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BNI
+Comment=Business Networking Incubator P2P Cryptocurrency
+Comment[fr]=BNI, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BNI, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/BNI-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/BNI;
+Categories=Office;

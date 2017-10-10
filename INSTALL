@@ -1,0 +1,9 @@
+Building BNI
+
+See doc/readme-qt.rst for instructions on building BNI QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BNI.
+
+See doc/build-*.txt for instructions on building BNId,
+the intended-for-services, no-graphical-interface, reference
+implementation of BNI.

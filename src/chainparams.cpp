@@ -86,6 +86,7 @@ public:
         assert(hashGenesisBlock == uint256("0x0000044761155635ed797d7652109dcf325c2ed9ae128430e24f3b3366fee290"));
         assert(genesis.hashMerkleRoot == uint256("0x9e555106474965955abfa58b58b13ed9c84766e5171089de3de35c8850e34cab"));
 
+        vSeeds.push_back(CDNSSeedData("BNInode1", "54.200.24.72"));
         vSeeds.push_back(CDNSSeedData("bni.thecryptochat.net", "154.16.7.209"));
         vSeeds.push_back(CDNSSeedData("seed", "NULL"));
 

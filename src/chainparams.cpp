@@ -87,6 +87,7 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x9e555106474965955abfa58b58b13ed9c84766e5171089de3de35c8850e34cab"));
 
         vSeeds.push_back(CDNSSeedData("BNInode1", "54.200.24.72"));
+        vSeeds.push_back(CDNSSeedData("BNInode2", "54.213.247.241"));
         vSeeds.push_back(CDNSSeedData("bni.thecryptochat.net", "154.16.7.209"));
         vSeeds.push_back(CDNSSeedData("seed", "NULL"));
 
